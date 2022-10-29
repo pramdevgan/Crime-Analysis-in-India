@@ -1,0 +1,14 @@
+# created by virtualenv automatically
+# virtualenv
+.Python
+[ee]tc
+[Bb]in
+[Ii]nclude
+[Ll]ib
+[Ll]ib64
+[Ll]ocal
+[Ss]cripts
+[ss]hare
+pyvenv.cfg
+.venv
+pip-selfcheck.json
